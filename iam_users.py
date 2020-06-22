@@ -1,3 +1,4 @@
+#this program or scripts fetches IAM users and stores it in CSV file
 import boto3
 import csv
 
